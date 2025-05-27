@@ -45,7 +45,7 @@
   "linuxPackages_cachyos.shufflecake" = "/nix/store/affh6440bcj8ln0qwn55mwvwybf82d0y-shufflecake";
   "linuxPackages_cachyos.systemtap" = "/nix/store/w9r6gligmqfm0g0gha2xh5a99nazzvs5-systemtap-5.2";
   "linuxPackages_cachyos.tp_smapi" = "/nix/store/hhw3dj1cmvqli76val762hz66bd88d0f-tp_smapi-0.43-6.15.0";
-  "linuxPackages_cachyos.v4l2loopback" = "/nix/store/3dljbbrss619a4bs6a5k55jws4fxnbnw-v4l2loopback-0.13.2-6.15.0";
+  "linuxPackages_cachyos.v4l2loopback" = "/nix/store/b1xcvczjsh0nnkkp0zj9is6bilzgb3ha-v4l2loopback-0.13.2-6.15.0";
   "linuxPackages_cachyos.veikk-linux-driver" = "/nix/store/m77cvsrzrsgs6njg4r1fk943gj5v2h0z-veikk-linux-driver-2.0";
   "linuxPackages_cachyos.virtualbox" = "/nix/store/pfwb27wixmnnsdnv37rkw30nlrzcwlqg-virtualbox-modules-7.1.8-6.15.0";
   "linuxPackages_cachyos.virtualboxGuestAdditions" = "/nix/store/xfqiyh3b4n1mvsgq5mgwkk6p8pr7c2h0-VirtualBox-GuestAdditions-7.1.8-6.15.0";
